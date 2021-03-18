@@ -1,0 +1,2143 @@
+2021-03-11 10:34:18,497 - EARL - INFO - ~~~ initialising simulations ~~~
+2021-03-11 10:34:18,498 - EARL - INFO - ~~~ initialising simulation: 0~~~
+2021-03-11 10:34:18,501 - EARL - INFO - 
+                ++++++++++++++++++++++
+                Starting State:  notengaged
+                Init Belief: [0.5, 0.5]
+                Max Play: 60
+                ++++++++++++++++++++++
+2021-03-11 10:34:18,502 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7637231503579952, 0.23627684964200477]
+====================
+2021-03-11 10:34:18,502 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.4054969551857794, 0.5945030448142207]
+====================
+2021-03-11 10:34:18,502 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7044240319396734, 0.29557596806032654]
+====================
+2021-03-11 10:34:18,502 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.3535096966477577, 0.6464903033522422]
+====================
+2021-03-11 10:34:18,502 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.6672011936565018, 0.3327988063434983]
+====================
+2021-03-11 10:34:18,503 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: engaged
+New Belief: [0.8483331052679797, 0.15166689473202033]
+====================
+2021-03-11 10:34:18,503 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.49378993276233385, 0.5062100672376662]
+====================
+2021-03-11 10:34:18,503 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.21372330454070426, 0.7862766954592958]
+====================
+2021-03-11 10:34:18,503 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.09343330823754646, 0.9065666917624535]
+====================
+2021-03-11 10:34:18,503 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.055456284562629986, 0.94454371543737]
+====================
+2021-03-11 10:34:18,503 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.044691434727609225, 0.9553085652723908]
+====================
+2021-03-11 10:34:18,504 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.04173541114135387, 0.9582645888586462]
+====================
+2021-03-11 10:34:18,504 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: notengaged
+New Belief: [0.3322280281140391, 0.6677719718859609]
+====================
+2021-03-11 10:34:18,504 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6508659475728895, 0.34913405242711054]
+====================
+2021-03-11 10:34:18,504 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.8410004482863801, 0.15899955171361996]
+====================
+2021-03-11 10:34:18,504 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9166282740872743, 0.08337172591272561]
+====================
+2021-03-11 10:34:18,504 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9417182944179492, 0.058281705582050876]
+====================
+2021-03-11 10:34:18,505 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9495266921072243, 0.050473307892775744]
+====================
+2021-03-11 10:34:18,505 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9519078725021966, 0.04809212749780348]
+====================
+2021-03-11 10:34:18,505 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9526294960730864, 0.04737050392691365]
+====================
+2021-03-11 10:34:18,505 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9528477718109284, 0.047152228189071596]
+====================
+2021-03-11 10:34:18,505 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529137576761679, 0.047086242323832]
+====================
+2021-03-11 10:34:18,505 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.6346072042727035, 0.3653927957272965]
+====================
+2021-03-11 10:34:18,506 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.30044937103781855, 0.6995506289621815]
+====================
+2021-03-11 10:34:18,506 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.1251601992475305, 0.8748398007524695]
+====================
+2021-03-11 10:34:18,506 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.4471253280392506, 0.5528746719607495]
+====================
+2021-03-11 10:34:18,506 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.7317651638113266, 0.2682348361886734]
+====================
+2021-03-11 10:34:18,506 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.8756599875463262, 0.12434001245367389]
+====================
+2021-03-11 10:34:18,506 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9284286525506661, 0.07157134744933386]
+====================
+2021-03-11 10:34:18,507 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9454210029981326, 0.054578997001867496]
+====================
+2021-03-11 10:34:18,507 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9506586810703531, 0.04934131892964694]
+====================
+2021-03-11 10:34:18,507 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9522511870195459, 0.04774881298045404]
+====================
+2021-03-11 10:34:18,507 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9527333653871581, 0.047266634612841855]
+====================
+2021-03-11 10:34:18,507 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6343254032355427, 0.3656745967644573]
+====================
+2021-03-11 10:34:18,507 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.8333906133230462, 0.1666093866769537]
+====================
+2021-03-11 10:34:18,507 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.4767883365646238, 0.5232116634353763]
+====================
+2021-03-11 10:34:18,508 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7500520006369327, 0.24994799936306736]
+====================
+2021-03-11 10:34:18,508 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.3928715388446959, 0.6071284611553041]
+====================
+2021-03-11 10:34:18,508 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6957143732157712, 0.3042856267842289]
+====================
+2021-03-11 10:34:18,508 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.8607165050213664, 0.1392834949786335]
+====================
+2021-03-11 10:34:18,508 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9234058093169375, 0.07659419068306256]
+====================
+2021-03-11 10:34:18,509 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9438515827112895, 0.05614841728871047]
+====================
+2021-03-11 10:34:18,509 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9501795076243743, 0.049820492375625684]
+====================
+2021-03-11 10:34:18,509 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9521059192409896, 0.04789408075901027]
+====================
+2021-03-11 10:34:18,509 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.952689420146433, 0.04731057985356696]
+====================
+2021-03-11 10:34:18,509 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: engaged
+New Belief: [0.6342567775051301, 0.3657432224948699]
+====================
+2021-03-11 10:34:18,509 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.30020230804090314, 0.6997976919590969]
+====================
+2021-03-11 10:34:18,509 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.12506382410913236, 0.8749361758908676]
+====================
+2021-03-11 10:34:18,510 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.06484400131666361, 0.9351559986833364]
+====================
+2021-03-11 10:34:18,510 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.3666146960475128, 0.6333853039524873]
+====================
+2021-03-11 10:34:18,510 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.15235482027678435, 0.8476451797232156]
+====================
+2021-03-11 10:34:18,510 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.07327241782962311, 0.926727582170377]
+====================
+2021-03-11 10:34:18,510 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.0496750512667719, 0.9503249487332281]
+====================
+2021-03-11 10:34:18,510 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.043098822077308384, 0.9569011779226917]
+====================
+2021-03-11 10:34:18,511 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.041301541378842746, 0.9586984586211572]
+====================
+2021-03-11 10:34:18,511 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.3315614810289971, 0.6684385189710028]
+====================
+2021-03-11 10:34:18,511 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.13759547964284016, 0.8624045203571598]
+====================
+2021-03-11 10:34:18,511 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.06867527714772738, 0.9313247228522726]
+====================
+2021-03-11 10:34:18,511 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.048378048699573024, 0.951621951300427]
+====================
+2021-03-11 10:34:18,511 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.34233452867026654, 0.6576654713297335]
+====================
+2021-03-11 10:34:18,511 - EARL - INFO - 60 games played. Total reward = 13.395310792606653
+2021-03-11 10:34:18,511 - EARL - INFO - ~~~ initialising simulation: 1~~~
+2021-03-11 10:34:18,514 - EARL - INFO - 
+                ++++++++++++++++++++++
+                Starting State:  notengaged
+                Init Belief: [0.5, 0.5]
+                Max Play: 60
+                ++++++++++++++++++++++
+2021-03-11 10:34:18,514 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7637231503579952, 0.23627684964200477]
+====================
+2021-03-11 10:34:18,514 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.8882850697327261, 0.11171493026727385]
+====================
+2021-03-11 10:34:18,515 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9325978668431792, 0.06740213315682077]
+====================
+2021-03-11 10:34:18,515 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9467162984910584, 0.053283701508941586]
+====================
+2021-03-11 10:34:18,515 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: engaged
+New Belief: [0.6250143538432797, 0.37498564615672036]
+====================
+2021-03-11 10:34:18,515 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: notengaged
+New Belief: [0.29374989405066415, 0.7062501059493359]
+====================
+2021-03-11 10:34:18,515 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.12255970958686038, 0.8774402904131396]
+====================
+2021-03-11 10:34:18,516 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.4439022648901723, 0.5560977351098276]
+====================
+2021-03-11 10:34:18,516 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7297203048062665, 0.27027969519373346]
+====================
+2021-03-11 10:34:18,516 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.37482485028537416, 0.6251751497146258]
+====================
+2021-03-11 10:34:18,516 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.15593336731215826, 0.8440666326878417]
+====================
+2021-03-11 10:34:18,516 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: engaged
+New Belief: [0.483752044311632, 0.516247955688368]
+====================
+2021-03-11 10:34:18,517 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.7542104891724711, 0.24578951082752884]
+====================
+2021-03-11 10:34:18,517 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.39666897469570983, 0.6033310253042903]
+====================
+2021-03-11 10:34:18,517 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.6983554200765246, 0.30164457992347543]
+====================
+2021-03-11 10:34:18,517 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.3485731469298019, 0.6514268530701981]
+====================
+2021-03-11 10:34:18,517 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.14465544070799047, 0.8553445592920095]
+====================
+2021-03-11 10:34:18,517 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.07086266935402852, 0.9291373306459716]
+====================
+2021-03-11 10:34:18,518 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.048994213380662094, 0.9510057866193379]
+====================
+2021-03-11 10:34:18,518 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.042912044175203196, 0.9570879558247968]
+====================
+2021-03-11 10:34:18,518 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.04125071612162716, 0.9587492838783728]
+====================
+2021-03-11 10:34:18,518 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.04079917659356296, 0.9592008234064371]
+====================
+2021-03-11 10:34:18,518 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.330788710548142, 0.6692112894518579]
+====================
+2021-03-11 10:34:18,518 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.1372792521522618, 0.8627207478477382]
+====================
+2021-03-11 10:34:18,518 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.0685777927256401, 0.9314222072743599]
+====================
+2021-03-11 10:34:18,519 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.04835062924330385, 0.9516493707566962]
+====================
+2021-03-11 10:34:18,519 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.04273563655417634, 0.9572643634458237]
+====================
+2021-03-11 10:34:18,519 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.04120272394657036, 0.9587972760534297]
+====================
+2021-03-11 10:34:18,519 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.33140955804476935, 0.6685904419552307]
+====================
+2021-03-11 10:34:18,519 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.6502240510311263, 0.34977594896887365]
+====================
+2021-03-11 10:34:18,519 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.3116440069478752, 0.6883559930521248]
+====================
+2021-03-11 10:34:18,520 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.634402472225884, 0.3655975277741161]
+====================
+2021-03-11 10:34:18,520 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.8334265130280082, 0.1665734869719919]
+====================
+2021-03-11 10:34:18,520 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.47682839371944213, 0.5231716062805578]
+====================
+2021-03-11 10:34:18,520 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.7500760639581788, 0.24992393604182123]
+====================
+2021-03-11 10:34:18,520 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.39289340659315486, 0.6071065934068451]
+====================
+2021-03-11 10:34:18,520 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6957296351069246, 0.3042703648930754]
+====================
+2021-03-11 10:34:18,520 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.34645761980829565, 0.6535423801917043]
+====================
+2021-03-11 10:34:18,521 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.14376708688836629, 0.8562329131116337]
+====================
+2021-03-11 10:34:18,521 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.4695966666198058, 0.5304033333801943]
+====================
+2021-03-11 10:34:18,521 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7457047266732504, 0.2542952733267496]
+====================
+2021-03-11 10:34:18,521 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.8812362026458649, 0.11876379735413506]
+====================
+2021-03-11 10:34:18,521 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.5337034946684622, 0.46629650533153777]
+====================
+2021-03-11 10:34:18,522 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7826466682492006, 0.21735333175079932]
+====================
+2021-03-11 10:34:18,522 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.8955016684241722, 0.1044983315758277]
+====================
+2021-03-11 10:34:18,522 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: engaged
+New Belief: [0.5521595899473853, 0.4478404100526147]
+====================
+2021-03-11 10:34:18,522 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.7925723121313086, 0.20742768786869137]
+====================
+2021-03-11 10:34:18,522 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.4335345376051196, 0.5664654623948804]
+====================
+2021-03-11 10:34:18,522 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.18298542498768833, 0.8170145750123117]
+====================
+2021-03-11 10:34:18,523 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.08311765933930569, 0.9168823406606944]
+====================
+2021-03-11 10:34:18,523 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.05247908051021022, 0.9475209194897899]
+====================
+2021-03-11 10:34:18,523 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.043869793605432486, 0.9561302063945675]
+====================
+2021-03-11 10:34:18,523 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.3354954906126445, 0.6645045093873554]
+====================
+2021-03-11 10:34:18,523 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.13921129699799034, 0.8607887030020096]
+====================
+2021-03-11 10:34:18,523 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.06917404689457132, 0.9308259531054287]
+====================
+2021-03-11 10:34:18,523 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.04851839221217926, 0.9514816077878206]
+====================
+2021-03-11 10:34:18,524 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.04278160663761845, 0.9572183933623816]
+====================
+2021-03-11 10:34:18,524 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.04121522918880409, 0.958784770811196]
+====================
+2021-03-11 10:34:18,524 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.040789541915400004, 0.9592104580846]
+====================
+2021-03-11 10:34:18,524 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.040674002193820086, 0.9593259978061799]
+====================
+2021-03-11 10:34:18,524 - EARL - INFO - 60 games played. Total reward = 12.27619161945771
+2021-03-11 10:34:18,524 - EARL - INFO - ~~~ initialising simulation: 2~~~
+2021-03-11 10:34:18,526 - EARL - INFO - 
+                ++++++++++++++++++++++
+                Starting State:  notengaged
+                Init Belief: [0.5, 0.5]
+                Max Play: 60
+                ++++++++++++++++++++++
+2021-03-11 10:34:18,526 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7637231503579952, 0.23627684964200477]
+====================
+2021-03-11 10:34:18,526 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.8882850697327261, 0.11171493026727385]
+====================
+2021-03-11 10:34:18,526 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9325978668431792, 0.06740213315682077]
+====================
+2021-03-11 10:34:18,526 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9467162984910584, 0.053283701508941586]
+====================
+2021-03-11 10:34:18,527 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9510534647373673, 0.048946535262632755]
+====================
+2021-03-11 10:34:18,527 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.952370806983307, 0.04762919301669305]
+====================
+2021-03-11 10:34:18,527 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9527695460028313, 0.04723045399716869]
+====================
+2021-03-11 10:34:18,527 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9528901116389518, 0.04710988836104831]
+====================
+2021-03-11 10:34:18,527 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529265551847537, 0.047073444815246376]
+====================
+2021-03-11 10:34:18,527 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.6346272019144421, 0.3653727980855579]
+====================
+2021-03-11 10:34:18,527 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: engaged
+New Belief: [0.8335311710016893, 0.16646882899831075]
+====================
+2021-03-11 10:34:18,528 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.4769451931447042, 0.5230548068552959]
+====================
+2021-03-11 10:34:18,528 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.20479954540443585, 0.7952004545955642]
+====================
+2021-03-11 10:34:18,528 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.0903918180751916, 0.9096081819248083]
+====================
+2021-03-11 10:34:18,528 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.05457426168864769, 0.9454257383113523]
+====================
+2021-03-11 10:34:18,528 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.35159814691777747, 0.6484018530822226]
+====================
+2021-03-11 10:34:18,529 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.66576135729709, 0.33423864270291]
+====================
+2021-03-11 10:34:18,529 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.8476939109380903, 0.15230608906190962]
+====================
+2021-03-11 10:34:18,529 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.918948750131327, 0.08105124986867303]
+====================
+2021-03-11 10:34:18,529 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9424507141484926, 0.057549285851507405]
+====================
+2021-03-11 10:34:18,529 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9497510155353478, 0.05024898446465222]
+====================
+2021-03-11 10:34:18,529 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.951975944058968, 0.048024055941032]
+====================
+2021-03-11 10:34:18,530 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9526500944877605, 0.04734990551223958]
+====================
+2021-03-11 10:34:18,530 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.952853999568074, 0.04714600043192595]
+====================
+2021-03-11 10:34:18,530 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529156401007447, 0.047084359899255364]
+====================
+2021-03-11 10:34:18,530 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.9529342710208059, 0.047065728979194206]
+====================
+2021-03-11 10:34:18,530 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.6346392592130492, 0.36536074078695074]
+====================
+2021-03-11 10:34:18,530 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.8335367851509159, 0.16646321484908408]
+====================
+2021-03-11 10:34:18,531 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.4769514594917651, 0.5230485405082349]
+====================
+2021-03-11 10:34:18,531 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.2048028155252053, 0.7951971844747947]
+====================
+2021-03-11 10:34:18,531 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.09039292552946458, 0.9096070744705353]
+====================
+2021-03-11 10:34:18,531 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.05457458220213801, 0.945425417797862]
+====================
+2021-03-11 10:34:18,531 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.044447775806562076, 0.9555522241934379]
+====================
+2021-03-11 10:34:18,531 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.041668974618994756, 0.9583310253810052]
+====================
+2021-03-11 10:34:18,531 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.04091276645991268, 0.9590872335400873]
+====================
+2021-03-11 10:34:18,532 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.040707441238086554, 0.9592925587619134]
+====================
+2021-03-11 10:34:18,532 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: notengaged
+New Belief: [0.04065172572493902, 0.959348274275061]
+====================
+2021-03-11 10:34:18,532 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: engaged
+New Belief: [0.33056168881841347, 0.6694383111815866]
+====================
+2021-03-11 10:34:18,532 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.6495580066836882, 0.3504419933163117]
+====================
+2021-03-11 10:34:18,532 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: notengaged
+New Belief: [0.8404055703562234, 0.15959442964377654]
+====================
+2021-03-11 10:34:18,532 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9164210576191656, 0.08357894238083446]
+====================
+2021-03-11 10:34:18,532 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.941652786743063, 0.05834721325693704]
+====================
+2021-03-11 10:34:18,533 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9495066187611257, 0.050493381238874334]
+====================
+2021-03-11 10:34:18,533 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9519017802796953, 0.04809821972030474]
+====================
+2021-03-11 10:34:18,533 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6330283511870355, 0.36697164881296446]
+====================
+2021-03-11 10:34:18,533 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.2993376324666602, 0.7006623675333398]
+====================
+2021-03-11 10:34:18,533 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.12472681594076475, 0.8752731840592354]
+====================
+2021-03-11 10:34:18,533 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.4465896277040219, 0.5534103722959781]
+====================
+2021-03-11 10:34:18,534 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.18937371399138167, 0.8106262860086183]
+====================
+2021-03-11 10:34:18,534 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.08522468454348904, 0.9147753154565109]
+====================
+2021-03-11 10:34:18,534 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.05308390452082529, 0.9469160954791747]
+====================
+2021-03-11 10:34:18,534 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: notengaged
+New Belief: [0.34938420270433984, 0.6506157972956601]
+====================
+2021-03-11 10:34:18,534 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.1449968139880253, 0.8550031860119747]
+====================
+2021-03-11 10:34:18,534 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.0709689735945947, 0.9290310264054054]
+====================
+2021-03-11 10:34:18,534 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.37537647064642465, 0.6246235293535752]
+====================
+2021-03-11 10:34:18,535 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.6833025392819657, 0.3166974607180343]
+====================
+2021-03-11 10:34:18,535 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.3366090238802794, 0.6633909761197206]
+====================
+2021-03-11 10:34:18,535 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6542843169455581, 0.34571568305444184]
+====================
+2021-03-11 10:34:18,535 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.31461479786354046, 0.6853852021364595]
+====================
+2021-03-11 10:34:18,535 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.6368204336443836, 0.3631795663556164]
+====================
+2021-03-11 10:34:18,535 - EARL - INFO - 60 games played. Total reward = 13.317098383559971
+2021-03-11 10:34:18,535 - EARL - INFO - ~~~ initialising simulation: 3~~~
+2021-03-11 10:34:18,537 - EARL - INFO - 
+                ++++++++++++++++++++++
+                Starting State:  engaged
+                Init Belief: [0.5, 0.5]
+                Max Play: 60
+                ++++++++++++++++++++++
+2021-03-11 10:34:18,537 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.21708185053380782, 0.7829181494661922]
+====================
+2021-03-11 10:34:18,537 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.5491153414453998, 0.45088465855460025]
+====================
+2021-03-11 10:34:18,537 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.24503693906843196, 0.7549630609315681]
+====================
+2021-03-11 10:34:18,538 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.1044218281220246, 0.8955781718779754]
+====================
+2021-03-11 10:34:18,538 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.4208314649674464, 0.5791685350325535]
+====================
+2021-03-11 10:34:18,538 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7147350827506374, 0.2852649172493626]
+====================
+2021-03-11 10:34:18,538 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.36205168102269625, 0.6379483189773038]
+====================
+2021-03-11 10:34:18,538 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.6735710322619176, 0.3264289677380824]
+====================
+2021-03-11 10:34:18,538 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.8511446461314303, 0.14885535386856982]
+====================
+2021-03-11 10:34:18,538 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.920137143836034, 0.07986285616396607]
+====================
+2021-03-11 10:34:18,539 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9428249908935389, 0.057175009106461214]
+====================
+2021-03-11 10:34:18,539 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9498655700139633, 0.05013442998603669]
+====================
+2021-03-11 10:34:18,539 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.6298663154126737, 0.3701336845873265]
+====================
+2021-03-11 10:34:18,539 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.8313063481049571, 0.16869365189504296]
+====================
+2021-03-11 10:34:18,539 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.47446907471791416, 0.5255309252820858]
+====================
+2021-03-11 10:34:18,539 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.748655927712914, 0.25134407228708594]
+====================
+2021-03-11 10:34:18,540 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.8824028562582228, 0.11759714374177714]
+====================
+2021-03-11 10:34:18,540 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9306637246746364, 0.06933627532536359]
+====================
+2021-03-11 10:34:18,540 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.6009874667724304, 0.3990125332275695]
+====================
+2021-03-11 10:34:18,540 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.2775320708163057, 0.7224679291836943]
+====================
+2021-03-11 10:34:18,540 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.1163732644746063, 0.8836267355253938]
+====================
+2021-03-11 10:34:18,540 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.06222494464867556, 0.9377750553513244]
+====================
+2021-03-11 10:34:18,541 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.046571235835494676, 0.9534287641645054]
+====================
+2021-03-11 10:34:18,541 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.04224866000214581, 0.9577513399978541]
+====================
+2021-03-11 10:34:18,541 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.3330154970746664, 0.6669845029253336]
+====================
+2021-03-11 10:34:18,541 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.1381915234609476, 0.8618084765390525]
+====================
+2021-03-11 10:34:18,541 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.46296971806778625, 0.5370302819322137]
+====================
+2021-03-11 10:34:18,541 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.7416505969112375, 0.2583494030887625]
+====================
+2021-03-11 10:34:18,541 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.8796256750909184, 0.12037432490908152]
+====================
+2021-03-11 10:34:18,542 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9297455002066103, 0.07025449979338978]
+====================
+2021-03-11 10:34:18,542 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9458308451994246, 0.05416915480057539]
+====================
+2021-03-11 10:34:18,542 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9507836617088168, 0.0492163382911832]
+====================
+2021-03-11 10:34:18,542 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.952289062561559, 0.047710937438440945]
+====================
+2021-03-11 10:34:18,542 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9527448219100105, 0.047255178089989386]
+====================
+2021-03-11 10:34:18,542 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.952882637589347, 0.047117362410652994]
+====================
+2021-03-11 10:34:18,542 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529242961491765, 0.047075703850823505]
+====================
+2021-03-11 10:34:18,543 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529368872088527, 0.047063112791147235]
+====================
+2021-03-11 10:34:18,543 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529406926580447, 0.04705930734195524]
+====================
+2021-03-11 10:34:18,543 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.952941842783527, 0.04705815721647289]
+====================
+2021-03-11 10:34:18,543 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.952942190386282, 0.047057809613717964]
+====================
+2021-03-11 10:34:18,543 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529422954422664, 0.04705770455773354]
+====================
+2021-03-11 10:34:18,543 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423271933289, 0.04705767280667099]
+====================
+2021-03-11 10:34:18,543 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6346518486496568, 0.3653481513503432]
+====================
+2021-03-11 10:34:18,544 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.8335426469660706, 0.1664573530339294]
+====================
+2021-03-11 10:34:18,544 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9140187241477133, 0.08598127585228665]
+====================
+2021-03-11 10:34:18,544 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9408920937640416, 0.05910790623595839]
+====================
+2021-03-11 10:34:18,544 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.6161625515356497, 0.3838374484643503]
+====================
+2021-03-11 10:34:18,544 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.2876833142595626, 0.7123166857404375]
+====================
+2021-03-11 10:34:18,544 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6143605947041123, 0.3856394052958878]
+====================
+2021-03-11 10:34:18,545 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: engaged
+New Belief: [0.8239473045389606, 0.17605269546103938]
+====================
+2021-03-11 10:34:18,545 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.9106232845103276, 0.08937671548967248]
+====================
+2021-03-11 10:34:18,545 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.5725518315979636, 0.42744816840203625]
+====================
+2021-03-11 10:34:18,545 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.25931411991800085, 0.7406858800819991]
+====================
+2021-03-11 10:34:18,545 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.10960174335998828, 0.8903982566400116]
+====================
+2021-03-11 10:34:18,545 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.06020533159863083, 0.9397946684013693]
+====================
+2021-03-11 10:34:18,545 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.046008621472403935, 0.9539913785275961]
+====================
+2021-03-11 10:34:18,546 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.042094917554602804, 0.9579050824453972]
+====================
+2021-03-11 10:34:18,546 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.041028505752031354, 0.9589714942479686]
+====================
+2021-03-11 10:34:18,546 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.3311416123828666, 0.6688583876171333]
+====================
+2021-03-11 10:34:18,546 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.1374236164477078, 0.8625763835522922]
+====================
+2021-03-11 10:34:18,546 - EARL - INFO - 60 games played. Total reward = 12.38852331368508
+2021-03-11 10:34:18,546 - EARL - INFO - ~~~ initialising simulation: 4~~~
+2021-03-11 10:34:18,548 - EARL - INFO - 
+                ++++++++++++++++++++++
+                Starting State:  notengaged
+                Init Belief: [0.5, 0.5]
+                Max Play: 60
+                ++++++++++++++++++++++
+2021-03-11 10:34:18,548 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: engaged
+New Belief: [0.21708185053380782, 0.7829181494661922]
+====================
+2021-03-11 10:34:18,548 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: notengaged
+New Belief: [0.09458813660826447, 0.9054118633917355]
+====================
+2021-03-11 10:34:18,548 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.05579211197099261, 0.9442078880290073]
+====================
+2021-03-11 10:34:18,548 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.3534006644683342, 0.6465993355316658]
+====================
+2021-03-11 10:34:18,549 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.6671192099278075, 0.3328807900721925]
+====================
+2021-03-11 10:34:18,549 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.8482967463396341, 0.15170325366036574]
+====================
+2021-03-11 10:34:18,549 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9191567453630826, 0.08084325463691754]
+====================
+2021-03-11 10:34:18,549 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.942516260908718, 0.05748373909128212]
+====================
+2021-03-11 10:34:18,549 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9497710811670809, 0.05022891883291918]
+====================
+2021-03-11 10:34:18,549 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9519820321194139, 0.048017967880586085]
+====================
+2021-03-11 10:34:18,549 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9526519366479558, 0.047348063352044265]
+====================
+2021-03-11 10:34:18,550 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9528545565220577, 0.04714544347794234]
+====================
+2021-03-11 10:34:18,550 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529158084469885, 0.047084191553011405]
+====================
+2021-03-11 10:34:18,550 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529343219017264, 0.04706567809827353]
+====================
+2021-03-11 10:34:18,550 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529399173391736, 0.04706008266082643]
+====================
+2021-03-11 10:34:18,550 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529416084584065, 0.04705839154159353]
+====================
+2021-03-11 10:34:18,550 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529421195661731, 0.04705788043382689]
+====================
+2021-03-11 10:34:18,551 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529422740383078, 0.0470577259616922]
+====================
+2021-03-11 10:34:18,551 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423207244124, 0.04705767927558753]
+====================
+2021-03-11 10:34:18,551 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423348343496, 0.047057665165650464]
+====================
+2021-03-11 10:34:18,551 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423390987943, 0.04705766090120563]
+====================
+2021-03-11 10:34:18,551 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.952942340387637, 0.04705765961236293]
+====================
+2021-03-11 10:34:18,552 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423407771639, 0.04705765922283615]
+====================
+2021-03-11 10:34:18,552 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423408948905, 0.0470576591051095]
+====================
+2021-03-11 10:34:18,552 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423409304709, 0.04705765906952898]
+====================
+2021-03-11 10:34:18,552 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423409412245, 0.0470576590587755]
+====================
+2021-03-11 10:34:18,552 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423409444745, 0.04705765905552547]
+====================
+2021-03-11 10:34:18,552 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9529423409454568, 0.047057659054543226]
+====================
+2021-03-11 10:34:18,553 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6346518701404684, 0.3653481298595317]
+====================
+2021-03-11 10:34:18,553 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.833542656972393, 0.166457343027607]
+====================
+2021-03-11 10:34:18,553 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.914018727666209, 0.08598127233379098]
+====================
+2021-03-11 10:34:18,553 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9408920948798384, 0.05910790512016154]
+====================
+2021-03-11 10:34:18,553 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9492734034840823, 0.05072659651591776]
+====================
+2021-03-11 10:34:18,553 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.6289504270524235, 0.37104957294757634]
+====================
+2021-03-11 10:34:18,553 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.8308764925928098, 0.1691235074071901]
+====================
+2021-03-11 10:34:18,554 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.9130795826651958, 0.08692041733480421]
+====================
+2021-03-11 10:34:18,554 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9405940951136272, 0.05940590488637271]
+====================
+2021-03-11 10:34:18,554 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9491819822867517, 0.050818017713248405]
+====================
+2021-03-11 10:34:18,554 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.628809175781783, 0.371190824218217]
+====================
+2021-03-11 10:34:18,554 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.29638438251294713, 0.7036156174870528]
+====================
+2021-03-11 10:34:18,554 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.6217517586195462, 0.3782482413804539]
+====================
+2021-03-11 10:34:18,554 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.8274769480940813, 0.17252305190591874]
+====================
+2021-03-11 10:34:18,555 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9118773050995342, 0.08812269490046566]
+====================
+2021-03-11 10:34:18,555 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.5742829192491493, 0.42571708075085063]
+====================
+2021-03-11 10:34:18,555 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.2603944348450702, 0.7396055651549297]
+====================
+2021-03-11 10:34:18,555 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.10999817141665551, 0.8900018285833445]
+====================
+2021-03-11 10:34:18,555 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.4280364734047339, 0.5719635265952662]
+====================
+2021-03-11 10:34:18,555 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.18033746560747344, 0.8196625343925266]
+====================
+2021-03-11 10:34:18,555 - EARL - INFO - Taking action: manu
+Observation: oengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.08224983414937843, 0.9177501658506215]
+====================
+2021-03-11 10:34:18,556 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.0522304570937366, 0.9477695429062635]
+====================
+2021-03-11 10:34:18,556 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.043801321738667236, 0.9561986782613328]
+====================
+2021-03-11 10:34:18,556 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.33539096622546116, 0.6646090337745388]
+====================
+2021-03-11 10:34:18,556 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.65333684653973, 0.34666315346027]
+====================
+2021-03-11 10:34:18,556 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: notengaged
+New Belief: [0.8421210897994146, 0.1578789102005854]
+====================
+2021-03-11 10:34:18,556 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.9170181935874998, 0.08298180641250022]
+====================
+2021-03-11 10:34:18,557 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.5814455626788032, 0.41855443732119696]
+====================
+2021-03-11 10:34:18,557 - EARL - INFO - Taking action: auto
+Observation: oengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: engaged
+New Belief: [0.2649032618529241, 0.7350967381470759]
+====================
+2021-03-11 10:34:18,557 - EARL - INFO - Taking action: manu
+Observation: onotengaged
+Reward: 0.0
+Budget: inf
+New state: engaged
+New Belief: [0.5943686333119683, 0.4056313666880317]
+====================
+2021-03-11 10:34:18,557 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.425181330414104
+Budget: inf
+New state: notengaged
+New Belief: [0.814195811011122, 0.185804188988878]
+====================
+2021-03-11 10:34:18,557 - EARL - INFO - Taking action: auto
+Observation: onotengaged
+Reward: 0.34696892136742086
+Budget: inf
+New state: notengaged
+New Belief: [0.9071280568125971, 0.09287194318740279]
+====================
+2021-03-11 10:34:18,557 - EARL - INFO - 60 games played. Total reward = 11.191191731489456
+2021-03-11 10:34:18,557 - EARL - INFO - 5 simulations played. Exp total reward = 12.513663168159775
+2021-03-11 10:34:18,557 - EARL - INFO - Total rewards observed = [13.395310792606653, 12.27619161945771, 13.317098383559971, 12.38852331368508, 11.191191731489456]

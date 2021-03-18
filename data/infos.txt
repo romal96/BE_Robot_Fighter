@@ -1,0 +1,18 @@
+2 big datasets: 
+
+- 'df10labeled_data.csv': 
+	-> label dataset including preprocessed markers for each 10-second time window, mission and participant; this dataset will be useful for classification purposes	2 children datasets: 
+	-> Granularity= No clear granularity; many rows corresponding to same subject-mission-mode.
+	1 child dataset:
+		* 'df10PMPV_perf_data_to_class.csv' has the mission scores.
+		
+
+- 'averagedPMPVmode_w10_data.csv': 
+	-> labeled dataset with averaged or summed markers results for each 10-second time window, mission, participant and robot operation mode
+	-> Granularity= mission & mode
+	2 children datasets: 
+		* 'averagedPMPV_w10_data.csv' 
+		* averagedPMPV_data.csv
+
+		
+Each subject does 4 missions. During the mission, the game switches from the manual mode and the automatic mode.

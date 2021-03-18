@@ -1,0 +1,6 @@
+{
+	"algo": "pbvi",
+	"T": 200,
+	"Bsize": 500,
+	"stepsize": 0.01
+}

@@ -1,0 +1,37 @@
+# Tiger problem POMDP description in Cassandra format
+
+discount: 0.95
+values: reward
+states: notengaged engaged 
+actions: manu auto
+observations: onotengaged oengaged
+start: 0.5 0.5
+
+
+T: manu
+0.9 0.1
+0.1 0.9
+
+T: auto
+0.9 0.1 
+0.1 0.9
+
+
+O: manu
+0.7637231503579952 0.21708185053380782
+0.23627684964200477 0.7829181494661922
+
+O: auto
+0.7637231503579952 0.21708185053380782
+0.23627684964200477 0.7829181494661922
+
+
+R: manual : notengaged : * : * 0.31002244119886924
+
+R: manual : engaged : * : * 0.5540910121191127
+
+R: auto : notengaged : * : * 0.34696892136742086
+
+R: auto : engaged : * : * 0.425181330414104
+
+

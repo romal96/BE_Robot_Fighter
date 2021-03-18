@@ -1,0 +1,383 @@
+2021-03-18 12:20:36,398 - EARL - INFO - ~~~ initialising experience replay ~~~
+2021-03-18 12:20:36,399 - EARL - INFO - ~~~ initialising simulation: 0~~~
+2021-03-18 12:20:36,401 - EARL - INFO - 
+                ++++++++++++++++++++++
+                Init Belief: [0.5, 0.5]
+                Max Play: 60
+                ++++++++++++++++++++++
+2021-03-18 12:20:37,642 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.7637231503579952, 0.23627684964200477]
+====================
+2021-03-18 12:20:38,742 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.4054969551857794, 0.5945030448142207]
+====================
+2021-03-18 12:20:39,839 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.16973588893219294, 0.8302641110678071]
+====================
+2021-03-18 12:20:40,934 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.07880742590864297, 0.921192574091357]
+====================
+2021-03-18 12:20:42,038 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.05124702690149573, 0.9487529730985044]
+====================
+2021-03-18 12:20:43,143 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.043530696020547446, 0.9564693039794526]
+====================
+2021-03-18 12:20:44,264 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.33497765553610837, 0.6650223444638916]
+====================
+2021-03-18 12:20:45,327 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.6530148371475976, 0.3469851628524024]
+====================
+2021-03-18 12:20:46,380 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.8419752815203325, 0.1580247184796674]
+====================
+2021-03-18 12:20:47,594 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.916967492989808, 0.08303250701019209]
+====================
+2021-03-18 12:20:48,650 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.9418254956543096, 0.05817450434569043]
+====================
+2021-03-18 12:20:49,785 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.9495595380152174, 0.05044046198478256]
+====================
+2021-03-18 12:20:50,923 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.9519178408502813, 0.04808215914971869]
+====================
+2021-03-18 12:20:52,063 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.952632512596665, 0.04736748740333504]
+====================
+2021-03-18 12:20:53,203 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.6341679233322284, 0.36583207666777173]
+====================
+2021-03-18 12:20:54,354 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.30013969113291233, 0.6998603088670877]
+====================
+2021-03-18 12:20:55,506 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.12503940410063605, 0.8749605958993639]
+====================
+2021-03-18 12:20:56,649 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.06483659880029406, 0.9351634011997059]
+====================
+2021-03-18 12:20:57,797 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.36660402013820736, 0.6333959798617926]
+====================
+2021-03-18 12:20:58,945 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.1523501978858399, 0.8476498021141601]
+====================
+2021-03-18 12:21:00,098 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.47962578888847, 0.5203742111115299]
+====================
+2021-03-18 12:21:01,249 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.20620175166976698, 0.793798248330233]
+====================
+2021-03-18 12:21:02,403 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.09086716224475158, 0.9091328377552484]
+====================
+2021-03-18 12:21:03,627 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.40288606359976264, 0.5971139364002374]
+====================
+2021-03-18 12:21:04,783 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.7026394861675603, 0.2973605138324397]
+====================
+2021-03-18 12:21:05,941 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.35205115164458517, 0.6479488483554148]
+====================
+2021-03-18 12:21:07,098 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.14612244952722098, 0.853877550472779]
+====================
+2021-03-18 12:21:08,257 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.07131985106875315, 0.9286801489312468]
+====================
+2021-03-18 12:21:09,410 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.3758741030304301, 0.6241258969695699]
+====================
+2021-03-18 12:21:10,570 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.15639414995561463, 0.8436058500443855]
+====================
+2021-03-18 12:21:11,734 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.07454689320288374, 0.9254531067971163]
+====================
+2021-03-18 12:21:12,899 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.05003600202553289, 0.9499639979744672]
+====================
+2021-03-18 12:21:14,068 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.34482854879406694, 0.6551714512059332]
+====================
+2021-03-18 12:21:15,236 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.14308503955723456, 0.8569149604427654]
+====================
+2021-03-18 12:21:16,494 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.07037428337116022, 0.9296257166288397]
+====================
+2021-03-18 12:21:17,663 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.048856487988828246, 0.9511435120111718]
+====================
+2021-03-18 12:21:18,835 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.3430553904600397, 0.6569446095399604]
+====================
+2021-03-18 12:21:20,008 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.14234466897021492, 0.857655331029785]
+====================
+2021-03-18 12:21:21,188 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.4679145103067179, 0.5320854896932822]
+====================
+2021-03-18 12:21:22,369 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.2001243123997843, 0.7998756876002157]
+====================
+2021-03-18 12:21:23,549 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.531893990657612, 0.46810600934238794]
+====================
+2021-03-18 12:21:24,728 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.7816573143725156, 0.2183426856274843]
+====================
+2021-03-18 12:21:25,916 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.8951289859914092, 0.10487101400859074]
+====================
+2021-03-18 12:21:27,098 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.5516679859844887, 0.44833201401551137]
+====================
+2021-03-18 12:21:28,375 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.7923117694100246, 0.20768823058997546]
+====================
+2021-03-18 12:21:29,567 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.8991161836952523, 0.10088381630474776]
+====================
+2021-03-18 12:21:30,756 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.9361216908345832, 0.06387830916541692]
+====================
+2021-03-18 12:21:31,950 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.6090272632771652, 0.3909727367228347]
+====================
+2021-03-18 12:21:33,139 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.2828716771913536, 0.7171283228086464]
+====================
+2021-03-18 12:21:34,333 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.11839334448812489, 0.8816066555118751]
+====================
+2021-03-18 12:21:35,529 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.06283099967394658, 0.9371690003260534]
+====================
+2021-03-18 12:21:36,720 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.3637037586271556, 0.6362962413728444]
+====================
+2021-03-18 12:21:37,918 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.15109740596445756, 0.8489025940355425]
+====================
+2021-03-18 12:21:39,208 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.07287712859293388, 0.9271228714070661]
+====================
+2021-03-18 12:21:40,409 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.04956322140306389, 0.9504367785969361]
+====================
+2021-03-18 12:21:41,610 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.04306813196603501, 0.956931868033965]
+====================
+2021-03-18 12:21:42,813 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.3342704972915381, 0.6657295027084619]
+====================
+2021-03-18 12:21:44,024 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.13870708199373954, 0.8612929180062605]
+====================
+2021-03-18 12:21:45,229 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.06901828801508036, 0.9309817119849196]
+====================
+2021-03-18 12:21:46,435 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.048474555088016666, 0.9515254449119833]
+====================
+2021-03-18 12:21:46,435 - EARL - INFO - ~~~ initialising simulation: 1~~~
+2021-03-18 12:21:46,442 - EARL - INFO - 
+                ++++++++++++++++++++++
+                Init Belief: [0.5, 0.5]
+                Max Play: 60
+                ++++++++++++++++++++++
+2021-03-18 12:21:47,556 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.7637231503579952, 0.23627684964200477]
+====================
+2021-03-18 12:21:48,743 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.4054969551857794, 0.5945030448142207]
+====================
+2021-03-18 12:21:49,841 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.16973588893219294, 0.8302641110678071]
+====================
+2021-03-18 12:21:50,941 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.49932323813643376, 0.5006767618635664]
+====================
+2021-03-18 12:21:52,046 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.7633321374522514, 0.2366678625477486]
+====================
+2021-03-18 12:21:53,098 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.4051301510304473, 0.5948698489695528]
+====================
+2021-03-18 12:21:54,158 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.7041738372288117, 0.2958261627711884]
+====================
+2021-03-18 12:21:55,288 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.8642927019320841, 0.13570729806791584]
+====================
+2021-03-18 12:21:56,401 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.5127068254687847, 0.48729317453121546]
+====================
+2021-03-18 12:21:57,516 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.7709827357826448, 0.22901726421735524]
+====================
+2021-03-18 12:21:58,627 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.8910757359500765, 0.10892426404992357]
+====================
+2021-03-18 12:21:59,738 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.9335104217166721, 0.06648957828332787]
+====================
+2021-03-18 12:22:00,853 - EARL - INFO - Observation: onotengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: manu
+New Belief: [0.9469989217188102, 0.053001078281189905]
+====================
+2021-03-18 12:22:01,963 - EARL - INFO - Observation: oengaged
+POMDP would take action: auto
+action taken during EXPERIMENT: auto
+New Belief: [0.6254478823347829, 0.3745521176652172]
+====================
